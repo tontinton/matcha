@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 deno_core = "0.162.0"
 tokio = { version = "1.22.0", features = ["full"] }
+actix-web = "4.2.1"
